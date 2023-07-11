@@ -12,6 +12,36 @@
   
 
 }
+.btn{
+    border-radius: 5px;
+    background-color: #E55473;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 15px 35px;}
+    .banner-title{
+        color: #272727;
+font-size: 80px;
+font-weight: 800;
+    }
+/* main section styles*/
+
+/* about section styles*/
+.section-title{
+    color: #272727;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+}
+.section-description{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+
 
  
        
