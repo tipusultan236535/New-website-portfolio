@@ -1,0 +1,17 @@
+/* head related styles*/
+.header{
+    background-color: #FFF8F3;
+    
+}
+.banner-t{
+    padding: 40px 220px 150px ;
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+        background-color: rgba(229, 84, 115, 0.10);
+  
+
+}
+
+ 
+       
