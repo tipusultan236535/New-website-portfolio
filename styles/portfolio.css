@@ -93,10 +93,16 @@ background: rgba(229, 84, 115, 0.05);
 
 .instagram-text{
     text-align: center;
+    color: #272727;
+font-size: 40px;
+
+font-weight: 800;
+
 }
 .instagram-img{
     display: flex;
    justify-content: center;
+ 
 }
 .footer-text{
     text-align: center;
@@ -110,11 +116,28 @@ background: rgba(229, 84, 115, 0.05);
 }
 .background-tex{
     text-align: center;
+    background-image: url('../images/Flower Asset/Rectangle\ 9.png');
+    padding: 128px;
+background-repeat: no-repeat;
+background-position: bottom;
+margin-top: 30px;
+margin-bottom: 30px;
+
 }
 .text-around{
    display: flex;
    text-align: center;
    justify-content: center;
+
+
+}
+#button-j{
+    width: 700px;
+height: 64px;
+border-radius: 8px;
+background: #FFF;
+
+
 
 }
 
